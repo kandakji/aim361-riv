@@ -1,0 +1,3 @@
+aws-cdk-lib
+constructs
+aws_solutions_constructs.aws_s3_stepfunctions
